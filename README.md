@@ -1,7 +1,7 @@
-# Exploratory-Data-Analysis--Indian-Premier-League
+## Exploratory-Data-Analysis--Indian-Premier-League
 I have done Exploratory Data Analysis on Indian Premier League Using Python (Jupyter Notebook) & Tableau. To See Tableau Dashboard & Story visit https://public.tableau.com/app/profile/karan.doke
 
-## Objective :-
+### Objective :-
 - Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’.
 - As a Sports Analysts, Find out the most succesfull teams, players and factors contributing win or loss of a team.
 - Suggest teams or players a company should endorse of it’s products.
